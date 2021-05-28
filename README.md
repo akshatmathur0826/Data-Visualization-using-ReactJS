@@ -31,7 +31,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-###`npm i react-d3`
+### `npm install react-d3` for visualizing data
+
 ### `npm install styled-components` for styling 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
