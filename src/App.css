@@ -1,0 +1,50 @@
+/*.App{
+  background-color: #000000cc;
+  background-color: beige;
+}*/
+.axis-label {
+  font-size: 1.5em;
+  fill: white;
+}
+svg {
+  /*width: 60px;*/
+  background-color:black;
+  border: 5px solid darkgoldenrod;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 5%;
+  vertical-align: top;
+  color:white;
+  font-size: 100px;
+  display: inline-block;
+  justify-content: center;
+}
+.linechart{
+  
+  justify-content: center;
+}
+.device{
+  display: inline-block;
+  align-self: center;
+
+}
+select{
+  font-size: 48%;
+  margin-bottom: 4%;
+  height: 30px;
+  margin-left: 5%;
+  border: 1px solid white ;
+  border-radius: 5px;
+  /*background-color:#b8860b;*/
+}
+h3{
+  color: darkgoldenrod;
+}
+button{
+  background-color: #2bb3d8;
+  color: aliceblue;
+  height: 30px;
+  margin-left: 5%;
+  border-radius: 5px;
+  
+}
